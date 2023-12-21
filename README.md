@@ -1,6 +1,6 @@
 ### Oi! Eu sou o Patrick Deyvis👋
 
-## Estou Cursando Análise e desenvolvimento de sistemas
+## Cursando Análise e desenvolvimento de sistemas
  
 # Amo Programar
 
